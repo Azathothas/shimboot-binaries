@@ -26,3 +26,4 @@ jobs:
           body_path: misc/release_notes.txt
           draft: true
           files: misc/shimboot-binaries.tar.gz
+          
